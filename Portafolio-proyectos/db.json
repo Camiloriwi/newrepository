@@ -1,0 +1,52 @@
+{
+  "atministradores": [
+    {
+      "id": "2034",
+      "email": "camilomanco2005@gmail.com",
+      "password": "Camiloportafolio123",
+      "nameCompany": "cristian"
+    },
+    {
+      "id": "2035",
+      "email": "robinson.cortes@riwi.io",
+      "password": "12345678",
+      "nameCompany": "Google"
+    }
+  ],
+  "repositorios": [
+   
+
+    {
+      "imagen": "images/images.png",
+      "company": "metalifeverse",
+      "location": "https://github.com/Camiloriwi/MetaLifeVerse",
+      "description": "...",
+      "id": "1426"
+    },
+    {
+      "id": "d784",
+      "imagen": "../images/ext.jpg",
+      "company": "reloj digital",
+      "location": "https://github.com/Camiloriwi/reloj-dijital",
+      "description": "..."
+    },
+
+    {
+      "id": "a0a9",
+      "imagen": "images/images1.jpeg",
+      "company": "cafeteria",
+      "location": "https://github.com/Camiloriwi/web-cafeteria",
+      "description": "..."
+    }
+  ],
+  "newcard": [
+    {
+      "id": "2",
+      "title": "Desarrollador back-End",
+      "description": "En estos momentos nos encontramos en búsqueda de un talento para cumplir el rol deDesarrollador Front-end Experiencia y conocimientos: más de dos (2) años o superior en: Metodologías ágiles (Scrum/Kanban) Marco SPA (Angular)",
+      "location": "Medellin",
+      "date": "10-02-2024",
+      "logo": "assets/img/logo.webp"
+    }
+  ]
+}

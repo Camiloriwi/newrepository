@@ -1,0 +1,50 @@
+
+[
+    {
+        "type":"header",
+        "version":"5.2.1",
+        "comment":"Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+        "type":"database",
+        "name":"bqac1wxlc2pxma7ixogf"
+    },
+    {
+        "type":"table",
+        "name":"atministradores",
+        "database":"bqac1wxlc2pxma7ixogf",
+        "data": [
+        
+            {
+                "id":"1",
+                "nombre":"Cistian",
+                "password":"4321",
+                "email":"camilomanco2005@gmail.com"
+            },
+            {
+                "id":"2",
+                "nombre":"Robinson",
+                "password":"1234",
+                "email":"robinson.cortes@riwi.io"
+            }
+    
+        ]
+    },
+    {
+        "type":"table",
+        "name":"proyectos",
+        "database":"bqac1wxlc2pxma7ixogf",
+        "data": [
+        
+            {
+                "id":"1",
+                "nombre":"desarrollo software",
+                "link":"https://instagram.com",
+                "description":"..."
+            }
+
+        ]
+    }
+    
+]
+    
