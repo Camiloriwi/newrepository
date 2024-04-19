@@ -14,10 +14,11 @@ The project includes functionalities such as:
 
 1. Clone this repository to your local machine.
 ```bash
-git clone <repositorio>
-Open the project in Visual Studio.
-Build and run the project.
-Features
+git clone https://github.com/Camiloriwi/class-exercises.git
+```
+2. Open the project in Visual Studio.
+3. Build and run the project.
+## Features
 Access Control
 Users can input their name and select a section from a dropdown menu.
 Access to certain sections is restricted based on user input.
@@ -30,17 +31,16 @@ Displays the result with user details.
 Purchase Discount Calculation
 Calculates discounts on purchases.
 Displays the result with details of the user and purchase.
-Screenshots
+## Screenshots
 Insert screenshots of the application in action here, if necessary.
 
-Contributions
+## Contributions
 Contributions are welcome. If you have any suggestions for improvement or want to add new features, feel free to submit a pull request!
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for more details.
 
-vbnet
-Copy code
+
 
 This README.md file provides a description of the project, how to run it, its features, and how to contribute.
 
