@@ -1,0 +1,10 @@
+C:\Users\CAMILO\Desktop\C#   and  .NET\Entregable - sabado\Entregable - sabado\bin\Debug\Entregable - sabado.exe.config
+C:\Users\CAMILO\Desktop\C#   and  .NET\Entregable - sabado\Entregable - sabado\bin\Debug\Entregable - sabado.exe
+C:\Users\CAMILO\Desktop\C#   and  .NET\Entregable - sabado\Entregable - sabado\bin\Debug\Entregable - sabado.pdb
+C:\Users\CAMILO\Desktop\C#   and  .NET\Entregable - sabado\Entregable - sabado\obj\Debug\Entregable - sabado.csproj.AssemblyReference.cache
+C:\Users\CAMILO\Desktop\C#   and  .NET\Entregable - sabado\Entregable - sabado\obj\Debug\Entregable___sabado.Form1.resources
+C:\Users\CAMILO\Desktop\C#   and  .NET\Entregable - sabado\Entregable - sabado\obj\Debug\Entregable___sabado.Properties.Resources.resources
+C:\Users\CAMILO\Desktop\C#   and  .NET\Entregable - sabado\Entregable - sabado\obj\Debug\Entregable - sabado.csproj.GenerateResource.cache
+C:\Users\CAMILO\Desktop\C#   and  .NET\Entregable - sabado\Entregable - sabado\obj\Debug\Entregable - sabado.csproj.CoreCompileInputs.cache
+C:\Users\CAMILO\Desktop\C#   and  .NET\Entregable - sabado\Entregable - sabado\obj\Debug\Entregable - sabado.exe
+C:\Users\CAMILO\Desktop\C#   and  .NET\Entregable - sabado\Entregable - sabado\obj\Debug\Entregable - sabado.pdb
